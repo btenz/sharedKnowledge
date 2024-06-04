@@ -5,7 +5,7 @@
 		- Generated based on the calculation results from any payroll inputs for an employee (frozen at the time of the payroll cutoff)
 		- The exchange rates used here are stored at the time of cutoff and used throughout the month
 			- lets call this the #cycleExchangeRates
-		- [[Expenses]] Exchange Rates can be found here
+		-  Exchange Rates can be found [here](Expenses.md)
 2. **Out of Cycle Invoices/Credit Notes**
 	- Generated based on the delta between the monthly invoice and the newly generated invoice for a specific customer
 		- Changes are made by updating the snapshot, re-runing calculations and then synchronising those changes with the live DB
