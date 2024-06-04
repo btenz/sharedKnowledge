@@ -18,11 +18,12 @@
 		- These are then verified by the ESM (To make sure the employee isn't a Visa employee, sense check the total ctc etc)
 		- A status is changed on monday.com to send this to finance who will then generate the PDF in Xero and send to the customer
 		- Finance should then be updating the status once paid (On our roadmap is a consideration to automate the generation of the invoices in Xero as well as align the statuses on the admin panel and Xero)
+
 ![Alt text](/Expenses%20Flow.png "Title")
+
 4. **Deposit Refunds:**
 	-  No Product Involvement ➜ Fully between Ops and Finance
-		- ![[image (17).png]]
-	- See plans as a possible route to automate :IbReturnUp:
+	- See plans as a possible route to automate ☝️
 5. **Manual Adjustments**
 	- Service Fees:
 		- Legal Fees
